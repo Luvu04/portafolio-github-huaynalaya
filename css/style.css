@@ -1,6 +1,7 @@
 body {
+    body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    background-color: #d2b48c; 
     color: #333333;
     margin: 0;
     padding: 0;
@@ -8,7 +9,7 @@ body {
 }
 
 header {
-    background-color: #8b5a2b; /* Color marrón capibara */
+    background-color: #8b5a2b; 
     color: white;
     padding: 20px 0;
 }
@@ -37,4 +38,6 @@ footer {
     background-color: #333333;
     color: white;
     font-size: 14px;
+
+    }
 }
